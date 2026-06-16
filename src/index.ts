@@ -1,1 +1,1 @@
-export { MdButton as MyButton } from './Button'
+export * from './Button'
